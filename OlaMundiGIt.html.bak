@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+	<meta charset="UTF-8">
+	<title>Teste Git</title>
+<head>
+<body>
+	<ul>
+		<li>Java</li>
+		<li>Hibernate</li>
+		<li>JPA</li>
+		<li>Git</li>
+		<li>Novo dado - testanto commit</li>
+		<li>Mais um dado adicionado</li>
+		<li>Testando usuario git mint</li>
+		<li>>Hibernate</li>
+		<li>Spring frameworks</li>
+		<li>Spring Data</li>
+	</ul>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
